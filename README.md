@@ -1,6 +1,6 @@
 ### Hey there, I'm Pamella Bezerra
 
-🎓 Computer Science graduate | 💻 Senior Full Stack Software Developer
+🎓 Computer Science graduate | 💻 Senior Full Stack Software Engineer
 
 🌐 6 years of experience in Web Development, specializing in Django and React.
 
